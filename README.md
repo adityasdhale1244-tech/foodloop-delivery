@@ -2,6 +2,12 @@
 
 A responsive food-discovery and ordering experience built with Next.js, React, and Lucide icons.
 
+## Deploy to Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fadityasdhale1244-tech%2Ffoodloop-delivery)
+
+Select **Deploy** to import this repository into Vercel and create a deployment. Once deployed, Vercel will show the live site URL in the project dashboard. Connect the GitHub repository to enable automatic deployments on future pushes.
+
 ## Run locally
 
 ```bash
